@@ -1,0 +1,21 @@
+ip addr show
+exit
+station connect wlan0 WiFi-84BCBE-5G
+station wlan0 get-networks
+station wlan0 connect WiFi-84BCBE-5G
+exit
+station wlan0 get-networks
+station wlan0 connect NS India 
+station wlan0 connect NS/ India
+station wlan0 connect 'NS India' 
+exit
+station wlan0 connect 'NS India'
+station get-networks
+station wlan0 get-networks
+station wlan0 connect "NS India"
+exit
+station wlan0 get-networks
+station wlan0 connect "NS India"
+status
+-h
+exit

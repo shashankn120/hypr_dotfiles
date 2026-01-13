@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/shashankn120/Downloads/3270.zip" added="2026-01-05T14:27:00.665537Z" modified="2026-01-05T14:27:17.356000Z" visited="2026-01-05T14:27:17.356000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-05T14:27:00.665540Z" count="1"/>
+          <bookmark:application name="" exec="dolphin %f" modified="2026-01-05T14:27:17.356000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shashankn120/Downloads/3270(1).zip" added="2026-01-05T14:27:04.998540Z" modified="2026-01-05T14:27:04.998553Z" visited="2026-01-05T14:27:04.998541Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-05T14:27:04.998546Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shashankn120/Downloads/emily-feld-v0-5y27nry89ktb1.webp" added="2026-01-05T14:30:55.006394Z" modified="2026-01-06T13:39:43.772404Z" visited="2026-01-05T14:30:55.006398Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-06T13:39:43.772399Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shashankn120/Downloads/thinking-of-getting-this-printed-as-a-physical-flag-v0-bnanzn1yb7qd1.webp" added="2026-01-05T14:32:14.541271Z" modified="2026-01-06T13:24:18.378541Z" visited="2026-01-05T14:32:14.541273Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-06T13:24:18.378534Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shashankn120/Downloads/emily-feld-v0-04m4jj767ale1.webp" added="2026-01-05T14:40:26.335417Z" modified="2026-01-06T13:23:41.701957Z" visited="2026-01-05T14:40:26.335418Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-06T13:23:41.701952Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shashankn120/Downloads/Hinduism_Flag.webp.png" added="2026-01-06T13:25:33.254021Z" modified="2026-01-06T13:26:01.284417Z" visited="2026-01-06T13:25:33.254021Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-06T13:26:01.284403Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shashankn120/Downloads/swastika-sign-11997528.webp" added="2026-01-06T13:26:40.350382Z" modified="2026-01-06T13:26:57.673310Z" visited="2026-01-06T13:26:40.350384Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-06T13:26:57.673297Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shashankn120/Downloads/emily-feld-v0-5y27nry89ktb11767706786.jpg" added="2026-01-06T13:39:48.516412Z" modified="2026-01-06T13:39:48.516432Z" visited="2026-01-06T13:39:48.516426Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-06T13:39:48.516429Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shashankn120/Downloads/a0a1d13801349d11ca1690506635875a-cherry-blossom-pink-flower.webp" added="2026-01-07T11:46:05.790582Z" modified="2026-01-07T11:46:06.127501Z" visited="2026-01-07T11:46:05.790584Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-07T11:46:06.127460Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shashankn120/Downloads/3dgifmaker04970.gif" added="2026-01-07T12:31:43.789348Z" modified="2026-01-07T12:31:43.789359Z" visited="2026-01-07T12:31:43.789349Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-07T12:31:43.789356Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shashankn120/Downloads/a0a1d13801349d11ca1690506635875a-cherry-blossom-pink-flower.png" added="2026-01-07T14:28:51.165039Z" modified="2026-01-07T14:28:51.165074Z" visited="2026-01-07T14:28:51.165041Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-07T14:28:51.165066Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shashankn120/Downloads/archsakura.png" added="2026-01-07T23:33:25.997248Z" modified="2026-01-07T23:38:01.930730Z" visited="2026-01-07T23:33:25.997248Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-07T23:38:01.930727Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shashankn120/Downloads/zen.toml" added="2026-01-08T05:48:52.455167Z" modified="2026-01-08T05:48:52.455172Z" visited="2026-01-08T05:48:52.455167Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/toml"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-08T05:48:52.455169Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shashankn120/Downloads/SWTM-2088_Atlassian-Git-Cheatsheet.pdf" added="2026-01-09T01:36:37.070855Z" modified="2026-01-09T01:36:37.070862Z" visited="2026-01-09T01:36:37.070856Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-09T01:36:37.070858Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shashankn120/Downloads/tumblr_ddf688b904f9a6c0920f320d5565bd2e_eb183f43_540.gif" added="2026-01-09T03:25:48.554174Z" modified="2026-01-09T03:26:40.587096Z" visited="2026-01-09T03:25:48.554175Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-09T03:26:40.587090Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shashankn120/Downloads/shot-by-cerqueira-0o_GEzyargo-unsplash.jpg" added="2026-01-09T03:35:21.721659Z" modified="2026-01-09T03:35:41.077563Z" visited="2026-01-09T03:35:21.721660Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-09T03:35:41.077559Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shashankn120/Downloads/jonatan-pie-3l3RwQdHRHg-unsplash.jpg" added="2026-01-09T03:36:28.339325Z" modified="2026-01-09T03:36:38.452146Z" visited="2026-01-09T03:36:28.339326Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-09T03:36:38.452138Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shashankn120/Downloads/wp6079071-pink-aesthetic-ps3-wallpapers.jpg" added="2026-01-09T03:39:59.830947Z" modified="2026-01-09T03:39:59.830959Z" visited="2026-01-09T03:39:59.830949Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-09T03:39:59.830953Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shashankn120/Downloads/wp7775329-pink-space-wallpapers.jpg" added="2026-01-09T03:40:13.838950Z" modified="2026-01-09T03:40:13.838958Z" visited="2026-01-09T03:40:13.838952Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-09T03:40:13.838954Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shashankn120/Downloads/wp2736312-galaxy-wallpaper-pink.jpg" added="2026-01-09T03:40:50.302802Z" modified="2026-01-09T03:40:50.302816Z" visited="2026-01-09T03:40:50.302804Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-09T03:40:50.302808Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shashankn120/Downloads" added="2026-01-09T04:13:11.232896Z" modified="2026-01-09T04:13:11.232901Z" visited="2026-01-09T04:13:11.232897Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="waypaper" exec="&apos;waypaper %u&apos;" modified="2026-01-09T04:13:11.232899Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shashankn120/Downloads/universe-spiral-3840x2160-10972.jpg" added="2026-01-09T06:26:30.710446Z" modified="2026-01-12T09:50:28.765185Z" visited="2026-01-09T06:28:07.998000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-12T09:50:28.765180Z" count="2"/>
+          <bookmark:application name="" exec="dolphin %f" modified="2026-01-09T06:28:07.998000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shashankn120/Downloads/wallpaper%20minecraft.jpg" added="2026-01-12T03:31:53.256947Z" modified="2026-01-12T03:31:53.256953Z" visited="2026-01-12T03:31:53.256948Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-12T03:31:53.256950Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shashankn120/Downloads/kalki_mb2.jpg" added="2026-01-13T01:18:46.280700Z" modified="2026-01-13T01:18:46.721408Z" visited="2026-01-13T01:18:46.280702Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-13T01:18:46.721402Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
