@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface>
+  <menu id="power-menu">
+    <section>
+      <item>
+        <attribute name="label">Lock</attribute>
+        <attribute name="action">lock</attribute>
+      </item>
+      <item>
+        <attribute name="label">Logout</attribute>
+        <attribute name="action">logout</attribute>
+      </item>
+      <item>
+        <attribute name="label">Suspend</attribute>
+        <attribute name="action">suspend</attribute>
+      </item>
+      <item>
+        <attribute name="label">Reboot</attribute>
+        <attribute name="action">reboot</attribute>
+      </item>
+      <item>
+        <attribute name="label">Shutdown</attribute>
+        <attribute name="action">shutdown</attribute>
+      </item>
+    </section>
+  </menu>
+</interface>
