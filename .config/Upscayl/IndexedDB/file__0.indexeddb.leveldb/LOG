@@ -1,0 +1,6 @@
+2026/01/13-15:10:00.127 1e19 Creating DB /home/shashankn120/.config/Upscayl/IndexedDB/file__0.indexeddb.leveldb since it was missing.
+2026/01/13-15:10:00.403 1e19 Reusing MANIFEST /home/shashankn120/.config/Upscayl/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2026/01/13-15:10:01.007 1e1c Level-0 table #5: started
+2026/01/13-15:10:01.123 1e1c Level-0 table #5: 641 bytes OK
+2026/01/13-15:10:01.230 1e1c Delete type=0 #3
+2026/01/13-15:10:01.230 1e05 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

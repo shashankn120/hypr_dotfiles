@@ -1,0 +1,8 @@
+[2026-01-13 15:09:58.252] [info]  🆙 Upscayl version: 2.15.0 FOSS
+[2026-01-13 15:09:58.255] [info]  🚀 UPSCAYL EXEC PATH:  /usr/share/upscayl/bin/upscayl-bin
+[2026-01-13 15:09:58.256] [info]  🚀 MODELS PATH:  /usr/share/upscayl/models
+[2026-01-13 15:09:58.258] [info]  🚃 App Path:  /usr/share/upscayl/app.asar
+[2026-01-13 15:10:00.983] [info]  💻 System Info: {"platform":"linux","release":"6.18.5-zen1-1-zen","arch":"x64","model":"Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz","cpuCount":8,"gpu":{"active":true,"deviceId":39745,"gpuPreference":0,"vendorId":32902}}
+[2026-01-13 15:10:31.045] [info]  🔄 Resetting image paths
+[2026-01-13 15:10:39.458] [info]  🚫 File Operation Cancelled
+[2026-01-13 15:10:39.462] [info]  🎒 BACKEND REPORTED:  🚫 File Operation Cancelled
