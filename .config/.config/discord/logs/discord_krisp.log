@@ -1,0 +1,24 @@
+[2026-Feb-03 19:28:51.921 +11:00][95388:95388][info ] Logging initialized
+[2026-Feb-03 19:28:51.921 +11:00][95388:95388][info ] Initializing krisp SDK...
+[2026-Feb-03 19:28:51.921 +11:00][95388:95388][info ] DoKrispInitialize
+[2026-Feb-03 19:28:52.254 +11:00][95388:95388][info ] LoadDynamicKrisp
+[2026-Feb-03 19:28:52.254 +11:00][95388:95388][info ] Did not find KRISP_DYLIB_PATH, skipping dynamic loading
+[2026-Feb-03 19:28:52.254 +11:00][95388:95388][info ] Initializing Krisp SDK in PID 95388, addr 0x7fe5fc51cf90
+[2026-Feb-03 19:28:52.255 +11:00][95388:95388][info ] Initialized Krisp SDK successfully
+[2026-Feb-03 19:28:52.255 +11:00][95388:95388][info ] Krisp SDK initialized
+[2026-Feb-04 12:25:34.204 +11:00][12780:12780][info ] Logging initialized
+[2026-Feb-04 12:25:34.204 +11:00][12780:12780][info ] Initializing krisp SDK...
+[2026-Feb-04 12:25:34.204 +11:00][12780:12780][info ] DoKrispInitialize
+[2026-Feb-04 12:25:34.826 +11:00][12780:12780][info ] LoadDynamicKrisp
+[2026-Feb-04 12:25:34.826 +11:00][12780:12780][info ] Did not find KRISP_DYLIB_PATH, skipping dynamic loading
+[2026-Feb-04 12:25:34.826 +11:00][12780:12780][info ] Initializing Krisp SDK in PID 12780, addr 0x7f4372c6cf90
+[2026-Feb-04 12:25:34.830 +11:00][12780:12780][info ] Initialized Krisp SDK successfully
+[2026-Feb-04 12:25:34.830 +11:00][12780:12780][info ] Krisp SDK initialized
+[2026-Feb-05 10:28:21.798 +11:00][ 2978: 2978][info ] Logging initialized
+[2026-Feb-05 10:28:21.799 +11:00][ 2978: 2978][info ] Initializing krisp SDK...
+[2026-Feb-05 10:28:21.799 +11:00][ 2978: 2978][info ] DoKrispInitialize
+[2026-Feb-05 10:28:22.418 +11:00][ 2978: 2978][info ] LoadDynamicKrisp
+[2026-Feb-05 10:28:22.418 +11:00][ 2978: 2978][info ] Did not find KRISP_DYLIB_PATH, skipping dynamic loading
+[2026-Feb-05 10:28:22.418 +11:00][ 2978: 2978][info ] Initializing Krisp SDK in PID 2978, addr 0x7fd2fbc9cf90
+[2026-Feb-05 10:28:22.421 +11:00][ 2978: 2978][info ] Initialized Krisp SDK successfully
+[2026-Feb-05 10:28:22.421 +11:00][ 2978: 2978][info ] Krisp SDK initialized

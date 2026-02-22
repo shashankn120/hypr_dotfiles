@@ -1,0 +1,15 @@
+2026/02/04-21:57:35.282 781 Reusing MANIFEST /home/shashankn120/.config/outlook-for-linux/Partitions/outlook-4-linux/Local Storage/leveldb/MANIFEST-000001
+2026/02/04-21:57:35.283 781 Recovering log #12
+2026/02/04-21:57:35.284 781 Reusing old log /home/shashankn120/.config/outlook-for-linux/Partitions/outlook-4-linux/Local Storage/leveldb/000012.log 
+2026/02/04-22:00:18.337 6fe Level-0 table #16: started
+2026/02/04-22:00:18.351 6fe Level-0 table #16: 104041 bytes OK
+2026/02/04-22:00:18.356 6fe Delete type=0 #12
+2026/02/04-22:00:18.356 6fe Compacting 4@0 + 1@1 files
+2026/02/04-22:00:18.361 6fe Generated table #17@0: 55 keys, 90323 bytes
+2026/02/04-22:00:18.361 6fe Compacted 4@0 + 1@1 files => 90323 bytes
+2026/02/04-22:00:18.365 6fe compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/04-22:00:18.365 6fe Delete type=2 #9
+2026/02/04-22:00:18.365 6fe Delete type=2 #16
+2026/02/04-22:00:18.365 6fe Delete type=2 #11
+2026/02/04-22:00:18.365 6fe Delete type=2 #13
+2026/02/04-22:00:18.365 6fe Delete type=2 #7

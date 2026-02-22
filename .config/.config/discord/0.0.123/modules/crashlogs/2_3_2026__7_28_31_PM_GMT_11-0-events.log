@@ -1,0 +1,74 @@
+2/3/2026, 7:28:31 PM GMT+11 0: 
+
+----------------------------------------------
+2/3/2026, 7:28:31 PM GMT+11 1: Discord starting: {"releaseChannel":"stable","version":"0.0.123"}, modulepath: /home/shashankn120/.config/discord/0.0.123/modules
+2/3/2026, 7:28:31 PM GMT+11 2: ✅ webContents.created web1 "index.html"
+2/3/2026, 7:28:31 PM GMT+11 3: ✅ window.created win1 "discord"
+2/3/2026, 7:28:31 PM GMT+11 4: ✅ webContents.did-finish-load web1
+2/3/2026, 7:28:43 PM GMT+11 5: ✅ webContents.created web2 ""
+2/3/2026, 7:28:43 PM GMT+11 6: ✅ window.created win2 "Discord"
+2/3/2026, 7:28:44 PM GMT+11 7: ✅ webContents.did-finish-load web2
+2/3/2026, 7:28:45 PM GMT+11 8: window.close win1
+2/3/2026, 7:28:45 PM GMT+11 9: webContents.destroyed web1
+2/3/2026, 7:28:45 PM GMT+11 10: window.closed win1
+2/3/2026, 7:38:14 PM GMT+11 0: 
+
+----------------------------------------------
+2/3/2026, 7:38:14 PM GMT+11 1: Discord starting: {"releaseChannel":"stable","version":"0.0.123"}, modulepath: /home/shashankn120/.config/discord/0.0.123/modules
+2/3/2026, 7:38:19 PM GMT+11 11: window.close win2
+2/3/2026, 7:38:23 PM GMT+11 0: 
+
+----------------------------------------------
+2/3/2026, 7:38:23 PM GMT+11 1: Discord starting: {"releaseChannel":"stable","version":"0.0.123"}, modulepath: /home/shashankn120/.config/discord/0.0.123/modules
+2/3/2026, 7:38:24 PM GMT+11 12: window.close win2
+2/3/2026, 8:06:29 PM GMT+11 13: window.close win2
+2/3/2026, 8:06:35 PM GMT+11 0: 
+
+----------------------------------------------
+2/3/2026, 8:06:35 PM GMT+11 1: Discord starting: {"releaseChannel":"stable","version":"0.0.123"}, modulepath: /home/shashankn120/.config/discord/0.0.123/modules
+2/3/2026, 8:06:38 PM GMT+11 14: window.close win2
+2/3/2026, 8:06:47 PM GMT+11 0: 
+
+----------------------------------------------
+2/3/2026, 8:06:49 PM GMT+11 0: 
+
+----------------------------------------------
+2/3/2026, 8:06:54 PM GMT+11 15: window.close win2
+2/4/2026, 12:25:28 PM GMT+11 0: 
+
+----------------------------------------------
+2/4/2026, 12:25:28 PM GMT+11 1: Discord starting: {"releaseChannel":"stable","version":"0.0.123"}, modulepath: /home/shashankn120/.config/discord/0.0.123/modules
+2/4/2026, 12:25:28 PM GMT+11 2: ✅ webContents.created web1 ""
+2/4/2026, 12:25:28 PM GMT+11 3: ✅ window.created win1 "discord"
+2/4/2026, 12:25:29 PM GMT+11 4: ✅ webContents.did-finish-load web1
+2/4/2026, 12:25:29 PM GMT+11 5: ✅ webContents.created web2 ""
+2/4/2026, 12:25:29 PM GMT+11 6: ✅ window.created win2 "Discord"
+2/4/2026, 12:25:32 PM GMT+11 7: ✅ webContents.did-finish-load web2
+2/4/2026, 12:25:34 PM GMT+11 8: window.close win1
+2/4/2026, 12:25:34 PM GMT+11 9: webContents.destroyed web1
+2/4/2026, 12:25:34 PM GMT+11 10: window.closed win1
+2/4/2026, 4:43:40 PM GMT+11 11: window.close win2
+2/4/2026, 6:53:22 PM GMT+11 12: before-quit
+2/4/2026, 6:53:22 PM GMT+11 13: window.close win2
+2/4/2026, 6:53:22 PM GMT+11 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+2/5/2026, 10:28:18 AM GMT+11 0: 
+
+----------------------------------------------
+2/5/2026, 10:28:18 AM GMT+11 1: Discord starting: {"releaseChannel":"stable","version":"0.0.123"}, modulepath: /home/shashankn120/.config/discord/0.0.123/modules
+2/5/2026, 10:28:18 AM GMT+11 2: ✅ webContents.created web1 ""
+2/5/2026, 10:28:18 AM GMT+11 3: ✅ window.created win1 "discord"
+2/5/2026, 10:28:18 AM GMT+11 4: ✅ webContents.did-finish-load web1
+2/5/2026, 10:28:18 AM GMT+11 5: ✅ webContents.created web2 ""
+2/5/2026, 10:28:18 AM GMT+11 6: ✅ window.created win2 "Discord"
+2/5/2026, 10:28:20 AM GMT+11 7: ✅ webContents.did-finish-load web2
+2/5/2026, 10:28:21 AM GMT+11 8: window.close win1
+2/5/2026, 10:28:21 AM GMT+11 9: webContents.destroyed web1
+2/5/2026, 10:28:21 AM GMT+11 10: window.closed win1
+2/5/2026, 10:35:02 AM GMT+11 11: before-quit
+2/5/2026, 10:35:02 AM GMT+11 12: window.close win2

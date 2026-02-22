@@ -1,0 +1,6 @@
+[Added Associations]
+application/x-compressed-tar=xarchiver.desktop;thunar.desktop;
+
+[Default Applications]
+application/x-compressed-tar=xarchiver.desktop;
+x-scheme-handler/noutube=NouTube.desktop

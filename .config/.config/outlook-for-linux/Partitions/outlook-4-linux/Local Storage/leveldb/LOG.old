@@ -1,0 +1,17 @@
+2026/02/03-17:34:59.980 5ed3 Creating DB /home/shashankn120/.config/outlook-for-linux/Partitions/outlook-4-linux/Local Storage/leveldb since it was missing.
+2026/02/03-17:34:59.993 5ed3 Reusing MANIFEST /home/shashankn120/.config/outlook-for-linux/Partitions/outlook-4-linux/Local Storage/leveldb/MANIFEST-000001
+2026/02/03-17:37:00.307 5e53 Level-0 table #5: started
+2026/02/03-17:37:00.320 5e53 Level-0 table #5: 62870 bytes OK
+2026/02/03-17:37:00.325 5e53 Delete type=0 #3
+2026/02/03-17:38:00.307 5e51 Level-0 table #7: started
+2026/02/03-17:38:00.324 5e51 Level-0 table #7: 74545 bytes OK
+2026/02/03-17:38:00.329 5e51 Delete type=0 #4
+2026/02/03-18:49:01.479 5e51 Level-0 table #9: started
+2026/02/03-18:49:01.483 5e51 Level-0 table #9: 45054 bytes OK
+2026/02/03-18:49:01.489 5e51 Delete type=0 #6
+2026/02/03-18:59:28.550 5e51 Level-0 table #11: started
+2026/02/03-18:59:28.565 5e51 Level-0 table #11: 44840 bytes OK
+2026/02/03-18:59:28.570 5e51 Delete type=0 #8
+2026/02/03-19:01:54.576 5e51 Level-0 table #13: started
+2026/02/03-19:01:54.591 5e51 Level-0 table #13: 42987 bytes OK
+2026/02/03-19:01:54.597 5e51 Delete type=0 #10

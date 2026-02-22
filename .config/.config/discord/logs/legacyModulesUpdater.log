@@ -1,0 +1,752 @@
+2/3/2026, 7:28:31 PM GMT+11 [Modules] Modules initializing
+2/3/2026, 7:28:31 PM GMT+11 [Modules] Distribution: remote
+2/3/2026, 7:28:31 PM GMT+11 [Modules] Host updates: enabled
+2/3/2026, 7:28:31 PM GMT+11 [Modules] Module updates: enabled
+2/3/2026, 7:28:31 PM GMT+11 [Modules] Module install path: /home/shashankn120/.config/discord/0.0.123/modules
+2/3/2026, 7:28:31 PM GMT+11 [Modules] Module installed file path: /home/shashankn120/.config/discord/0.0.123/modules/installed.json
+2/3/2026, 7:28:31 PM GMT+11 [Modules] Module download path: /home/shashankn120/.config/discord/0.0.123/modules/pending
+2/3/2026, 7:28:31 PM GMT+11 [Modules] Bootstrapping...
+2/3/2026, 7:28:31 PM GMT+11 [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+2/3/2026, 7:28:31 PM GMT+11 [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+2/3/2026, 7:28:31 PM GMT+11 [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+2/3/2026, 7:28:31 PM GMT+11 [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+2/3/2026, 7:28:31 PM GMT+11 [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+2/3/2026, 7:28:31 PM GMT+11 [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+2/3/2026, 7:28:31 PM GMT+11 [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+2/3/2026, 7:28:31 PM GMT+11 [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+2/3/2026, 7:28:31 PM GMT+11 [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+2/3/2026, 7:28:31 PM GMT+11 [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+2/3/2026, 7:28:31 PM GMT+11 [Modules] Installing discord_zstd@0 from /opt/discord/resources/bootstrap/discord_zstd.zip
+2/3/2026, 7:28:31 PM GMT+11 [Modules] Failed installing discord_zstd@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_zstd.zip'
+2/3/2026, 7:28:31 PM GMT+11 [Modules] Finished module installations. [success: 0] [failure: 6]
+2/3/2026, 7:28:31 PM GMT+11 [Modules] Checking for host updates.
+2/3/2026, 7:28:31 PM GMT+11 [Modules] Host is up to date.
+2/3/2026, 7:28:31 PM GMT+11 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2/3/2026, 7:28:31 PM GMT+11 [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+2/3/2026, 7:28:31 PM GMT+11 [Modules] Module update available: discord_erlpack@1 [installed: 0]
+2/3/2026, 7:28:31 PM GMT+11 [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+2/3/2026, 7:28:31 PM GMT+11 [Modules] Module update available: discord_utils@1 [installed: 0]
+2/3/2026, 7:28:31 PM GMT+11 [Modules] Module update available: discord_voice@1 [installed: 0]
+2/3/2026, 7:28:31 PM GMT+11 [Modules] Module update available: discord_zstd@1 [installed: 0]
+2/3/2026, 7:28:31 PM GMT+11 [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+2/3/2026, 7:28:31 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 1%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 2%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 3%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 4%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 5%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 7%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 8%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 9%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 11%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 12%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 14%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 15%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 16%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 18%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 19%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 21%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 22%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 23%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 24%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 26%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 27%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 28%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 29%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 31%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 33%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 34%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 35%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 36%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 37%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 39%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 40%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 41%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 42%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 43%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 45%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 47%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 49%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 50%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 52%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 54%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 55%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 56%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 57%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 59%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 61%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 62%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 63%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 64%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 65%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 67%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 68%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 70%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 71%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 72%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 73%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 75%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 76%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 78%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 79%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 80%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 81%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 83%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 85%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 86%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 87%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 89%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 90%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 91%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 92%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 94%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 95%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 97%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 98%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_desktop_core@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip: 100%
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+2/3/2026, 7:28:33 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 6%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 7%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 9%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 18%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 20%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 23%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 24%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 25%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 26%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 27%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 29%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 31%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 32%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 34%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 36%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 37%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 39%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 40%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 41%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 42%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 44%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 45%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 46%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 47%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 48%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 49%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 50%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 51%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 53%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 54%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 55%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 57%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 58%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 60%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 61%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 62%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 64%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 65%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 67%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 68%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 69%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 71%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 83%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 89%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 94%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 97%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_erlpack@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip: 100%
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+2/3/2026, 7:28:34 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 1%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 2%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 3%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 4%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 5%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 6%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 7%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 8%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 9%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 10%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 11%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 12%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 13%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 14%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 15%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 16%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 17%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 18%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 19%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 20%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 21%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 22%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 23%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 24%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 25%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 26%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 27%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 28%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 29%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 30%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 31%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 32%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 33%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 34%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 35%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 36%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 37%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 38%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 39%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 40%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 41%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 42%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 43%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 44%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 45%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 46%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 47%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 48%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 49%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 50%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 51%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 52%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 53%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 54%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 55%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 56%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 57%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 58%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 59%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 60%
+2/3/2026, 7:28:35 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 61%
+2/3/2026, 7:28:36 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 62%
+2/3/2026, 7:28:36 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 63%
+2/3/2026, 7:28:36 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 64%
+2/3/2026, 7:28:36 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 65%
+2/3/2026, 7:28:36 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 66%
+2/3/2026, 7:28:36 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 67%
+2/3/2026, 7:28:36 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 68%
+2/3/2026, 7:28:36 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 69%
+2/3/2026, 7:28:36 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 70%
+2/3/2026, 7:28:36 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 71%
+2/3/2026, 7:28:36 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 72%
+2/3/2026, 7:28:36 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 73%
+2/3/2026, 7:28:36 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 74%
+2/3/2026, 7:28:36 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 75%
+2/3/2026, 7:28:36 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 76%
+2/3/2026, 7:28:36 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 77%
+2/3/2026, 7:28:36 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 78%
+2/3/2026, 7:28:36 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 79%
+2/3/2026, 7:28:36 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 80%
+2/3/2026, 7:28:36 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 81%
+2/3/2026, 7:28:36 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 82%
+2/3/2026, 7:28:36 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 83%
+2/3/2026, 7:28:36 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 87%
+2/3/2026, 7:28:36 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 90%
+2/3/2026, 7:28:36 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 91%
+2/3/2026, 7:28:36 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 92%
+2/3/2026, 7:28:36 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 93%
+2/3/2026, 7:28:36 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 94%
+2/3/2026, 7:28:36 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 95%
+2/3/2026, 7:28:36 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 96%
+2/3/2026, 7:28:36 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 97%
+2/3/2026, 7:28:36 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 98%
+2/3/2026, 7:28:36 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 99%
+2/3/2026, 7:28:36 PM GMT+11 [Modules] Streaming discord_spellcheck@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip: 100%
+2/3/2026, 7:28:36 PM GMT+11 [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+2/3/2026, 7:28:36 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 1%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 2%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 4%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 5%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 6%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 7%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 8%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 9%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 10%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 11%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 12%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 13%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 14%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 15%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 16%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 17%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 18%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 19%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 20%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 21%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 22%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 23%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 24%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 25%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 26%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 27%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 28%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 29%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 30%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 31%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 32%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 33%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 34%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 35%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 36%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 37%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 38%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 39%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 40%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 41%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 42%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 43%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 44%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 45%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 46%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 47%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 48%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 49%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 50%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 51%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 52%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 53%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 54%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 55%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 56%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 57%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 58%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 59%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 60%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 61%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 62%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 63%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 64%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 65%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 66%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 67%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 68%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 69%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 70%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 71%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 72%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 73%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 74%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 75%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 77%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 81%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 90%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 91%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 92%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 93%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 94%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 95%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 96%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 97%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 98%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 99%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip: 100%
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Fetching discord_voice@1 from https://discord.com/api/modules/stable/discord_voice/1
+2/3/2026, 7:28:37 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip
+2/3/2026, 7:28:38 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 1%
+2/3/2026, 7:28:38 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 2%
+2/3/2026, 7:28:38 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 3%
+2/3/2026, 7:28:38 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 4%
+2/3/2026, 7:28:38 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 5%
+2/3/2026, 7:28:38 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 6%
+2/3/2026, 7:28:38 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 7%
+2/3/2026, 7:28:38 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 8%
+2/3/2026, 7:28:38 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 9%
+2/3/2026, 7:28:38 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 10%
+2/3/2026, 7:28:38 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 11%
+2/3/2026, 7:28:38 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 12%
+2/3/2026, 7:28:38 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 13%
+2/3/2026, 7:28:38 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 14%
+2/3/2026, 7:28:38 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 15%
+2/3/2026, 7:28:38 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 16%
+2/3/2026, 7:28:38 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 17%
+2/3/2026, 7:28:38 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 18%
+2/3/2026, 7:28:38 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 19%
+2/3/2026, 7:28:38 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 20%
+2/3/2026, 7:28:38 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 21%
+2/3/2026, 7:28:38 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 22%
+2/3/2026, 7:28:38 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 23%
+2/3/2026, 7:28:39 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 24%
+2/3/2026, 7:28:39 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 25%
+2/3/2026, 7:28:39 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 26%
+2/3/2026, 7:28:39 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 27%
+2/3/2026, 7:28:39 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 28%
+2/3/2026, 7:28:39 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 29%
+2/3/2026, 7:28:39 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 30%
+2/3/2026, 7:28:39 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 31%
+2/3/2026, 7:28:39 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 32%
+2/3/2026, 7:28:39 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 33%
+2/3/2026, 7:28:39 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 34%
+2/3/2026, 7:28:39 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 35%
+2/3/2026, 7:28:39 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 36%
+2/3/2026, 7:28:39 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 37%
+2/3/2026, 7:28:39 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 38%
+2/3/2026, 7:28:39 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 39%
+2/3/2026, 7:28:39 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 40%
+2/3/2026, 7:28:39 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 41%
+2/3/2026, 7:28:40 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 42%
+2/3/2026, 7:28:40 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 43%
+2/3/2026, 7:28:40 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 44%
+2/3/2026, 7:28:40 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 45%
+2/3/2026, 7:28:40 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 46%
+2/3/2026, 7:28:40 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 47%
+2/3/2026, 7:28:40 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 48%
+2/3/2026, 7:28:40 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 49%
+2/3/2026, 7:28:40 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 50%
+2/3/2026, 7:28:40 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 51%
+2/3/2026, 7:28:40 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 52%
+2/3/2026, 7:28:40 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 53%
+2/3/2026, 7:28:40 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 54%
+2/3/2026, 7:28:40 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 55%
+2/3/2026, 7:28:40 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 56%
+2/3/2026, 7:28:40 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 57%
+2/3/2026, 7:28:40 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 58%
+2/3/2026, 7:28:40 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 59%
+2/3/2026, 7:28:40 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 60%
+2/3/2026, 7:28:40 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 61%
+2/3/2026, 7:28:40 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 63%
+2/3/2026, 7:28:40 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 64%
+2/3/2026, 7:28:40 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 65%
+2/3/2026, 7:28:40 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 66%
+2/3/2026, 7:28:40 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 67%
+2/3/2026, 7:28:40 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 68%
+2/3/2026, 7:28:40 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 69%
+2/3/2026, 7:28:40 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 70%
+2/3/2026, 7:28:40 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 71%
+2/3/2026, 7:28:40 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 72%
+2/3/2026, 7:28:40 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 73%
+2/3/2026, 7:28:40 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 74%
+2/3/2026, 7:28:40 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 75%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 76%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 77%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 78%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 79%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 80%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 81%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 82%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 83%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 84%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 85%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 86%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 87%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 88%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 89%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 90%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 91%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 92%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 93%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 94%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 95%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 96%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 97%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 98%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 99%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_voice@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip: 100%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Fetching discord_zstd@1 from https://discord.com/api/modules/stable/discord_zstd/1
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_zstd@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_zstd-1.zip
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_zstd@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_zstd-1.zip: 3%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_zstd@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_zstd-1.zip: 16%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_zstd@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_zstd-1.zip: 21%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_zstd@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_zstd-1.zip: 25%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_zstd@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_zstd-1.zip: 29%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_zstd@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_zstd-1.zip: 33%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_zstd@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_zstd-1.zip: 37%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_zstd@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_zstd-1.zip: 41%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_zstd@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_zstd-1.zip: 45%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_zstd@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_zstd-1.zip: 50%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_zstd@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_zstd-1.zip: 54%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_zstd@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_zstd-1.zip: 58%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_zstd@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_zstd-1.zip: 62%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_zstd@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_zstd-1.zip: 66%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_zstd@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_zstd-1.zip: 71%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_zstd@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_zstd-1.zip: 74%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_zstd@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_zstd-1.zip: 79%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_zstd@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_zstd-1.zip: 83%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_zstd@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_zstd-1.zip: 87%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_zstd@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_zstd-1.zip: 91%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_zstd@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_zstd-1.zip: 95%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Streaming discord_zstd@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_zstd-1.zip: 100%
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Finished module downloads. [success: 6] [failure: 0]
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Installing updates...
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Installing discord_desktop_core@1 from /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_desktop_core-1.zip
+2/3/2026, 7:28:41 PM GMT+11 [Modules] Installing discord_erlpack@1 from /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_erlpack-1.zip
+2/3/2026, 7:28:42 PM GMT+11 [Modules] Installing discord_spellcheck@1 from /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_spellcheck-1.zip
+2/3/2026, 7:28:42 PM GMT+11 [Modules] Installing discord_utils@1 from /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_utils-1.zip
+2/3/2026, 7:28:42 PM GMT+11 [Modules] Installing discord_voice@1 from /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_voice-1.zip
+2/3/2026, 7:28:43 PM GMT+11 [Modules] Installing discord_zstd@1 from /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_zstd-1.zip
+2/3/2026, 7:28:43 PM GMT+11 [Modules] Finished module installations. [success: 6] [failure: 0]
+2/3/2026, 7:28:43 PM GMT+11 [Modules] Checking for host updates.
+2/3/2026, 7:28:43 PM GMT+11 [Modules] Host is up to date.
+2/3/2026, 7:28:43 PM GMT+11 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2/3/2026, 7:28:43 PM GMT+11 [Modules] No module updates available.
+2/3/2026, 7:28:45 PM GMT+11 [Modules] Starting to install discord_krisp...
+2/3/2026, 7:28:45 PM GMT+11 [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+2/3/2026, 7:28:45 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip
+2/3/2026, 7:28:45 PM GMT+11 [Modules] Starting to install discord_game_utils...
+2/3/2026, 7:28:45 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 1%
+2/3/2026, 7:28:46 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 2%
+2/3/2026, 7:28:46 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 3%
+2/3/2026, 7:28:46 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 4%
+2/3/2026, 7:28:46 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 5%
+2/3/2026, 7:28:46 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 6%
+2/3/2026, 7:28:46 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 7%
+2/3/2026, 7:28:46 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 8%
+2/3/2026, 7:28:46 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 9%
+2/3/2026, 7:28:46 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 10%
+2/3/2026, 7:28:46 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 11%
+2/3/2026, 7:28:46 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 12%
+2/3/2026, 7:28:46 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 13%
+2/3/2026, 7:28:46 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 14%
+2/3/2026, 7:28:46 PM GMT+11 [Modules] Starting to install discord_rpc...
+2/3/2026, 7:28:46 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 15%
+2/3/2026, 7:28:46 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 16%
+2/3/2026, 7:28:47 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 17%
+2/3/2026, 7:28:47 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 18%
+2/3/2026, 7:28:47 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 19%
+2/3/2026, 7:28:47 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 20%
+2/3/2026, 7:28:47 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 21%
+2/3/2026, 7:28:47 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 22%
+2/3/2026, 7:28:47 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 23%
+2/3/2026, 7:28:47 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 24%
+2/3/2026, 7:28:47 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 25%
+2/3/2026, 7:28:47 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 26%
+2/3/2026, 7:28:47 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 27%
+2/3/2026, 7:28:47 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 28%
+2/3/2026, 7:28:47 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 29%
+2/3/2026, 7:28:47 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 30%
+2/3/2026, 7:28:47 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 31%
+2/3/2026, 7:28:47 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 32%
+2/3/2026, 7:28:47 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 33%
+2/3/2026, 7:28:47 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 34%
+2/3/2026, 7:28:47 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 35%
+2/3/2026, 7:28:47 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 36%
+2/3/2026, 7:28:47 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 37%
+2/3/2026, 7:28:47 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 38%
+2/3/2026, 7:28:47 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 39%
+2/3/2026, 7:28:47 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 40%
+2/3/2026, 7:28:47 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 41%
+2/3/2026, 7:28:48 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 42%
+2/3/2026, 7:28:48 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 43%
+2/3/2026, 7:28:48 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 44%
+2/3/2026, 7:28:48 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 45%
+2/3/2026, 7:28:48 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 46%
+2/3/2026, 7:28:48 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 47%
+2/3/2026, 7:28:48 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 48%
+2/3/2026, 7:28:48 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 49%
+2/3/2026, 7:28:48 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 50%
+2/3/2026, 7:28:48 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 51%
+2/3/2026, 7:28:48 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 52%
+2/3/2026, 7:28:48 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 53%
+2/3/2026, 7:28:48 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 54%
+2/3/2026, 7:28:48 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 55%
+2/3/2026, 7:28:48 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 56%
+2/3/2026, 7:28:48 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 57%
+2/3/2026, 7:28:48 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 58%
+2/3/2026, 7:28:48 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 59%
+2/3/2026, 7:28:48 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 60%
+2/3/2026, 7:28:48 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 61%
+2/3/2026, 7:28:48 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 62%
+2/3/2026, 7:28:48 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 63%
+2/3/2026, 7:28:48 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 64%
+2/3/2026, 7:28:48 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 65%
+2/3/2026, 7:28:48 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 66%
+2/3/2026, 7:28:48 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 67%
+2/3/2026, 7:28:48 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 68%
+2/3/2026, 7:28:49 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 69%
+2/3/2026, 7:28:49 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 70%
+2/3/2026, 7:28:49 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 71%
+2/3/2026, 7:28:49 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 72%
+2/3/2026, 7:28:49 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 73%
+2/3/2026, 7:28:49 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 74%
+2/3/2026, 7:28:49 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 75%
+2/3/2026, 7:28:49 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 76%
+2/3/2026, 7:28:49 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 77%
+2/3/2026, 7:28:49 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 78%
+2/3/2026, 7:28:49 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 79%
+2/3/2026, 7:28:49 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 80%
+2/3/2026, 7:28:49 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 81%
+2/3/2026, 7:28:49 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 82%
+2/3/2026, 7:28:49 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 83%
+2/3/2026, 7:28:49 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 84%
+2/3/2026, 7:28:49 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 85%
+2/3/2026, 7:28:49 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 86%
+2/3/2026, 7:28:49 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 87%
+2/3/2026, 7:28:50 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 88%
+2/3/2026, 7:28:50 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 89%
+2/3/2026, 7:28:50 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 90%
+2/3/2026, 7:28:50 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 91%
+2/3/2026, 7:28:50 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 92%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 93%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 94%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 95%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 96%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 97%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 98%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 99%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_krisp@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip: 100%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Installing discord_krisp@1 from /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_krisp-1.zip
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Finished module installations. [success: 1] [failure: 0]
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 1%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 2%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 3%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 5%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 7%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 8%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 10%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 12%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 14%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 15%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 16%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 17%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 18%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 19%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 20%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 21%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 22%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 23%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 24%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 25%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 26%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 27%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 28%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 29%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 30%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 31%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 32%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 33%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 34%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 35%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 36%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 37%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 38%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 39%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 40%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 41%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 42%
+2/3/2026, 7:28:51 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 43%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 44%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 45%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 46%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 47%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 48%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 49%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 50%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 51%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 52%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 53%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 54%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 55%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 56%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 57%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 58%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 59%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 60%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 61%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 62%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 63%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 64%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 65%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 66%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 67%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 68%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 69%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 70%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 71%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 72%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 73%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 74%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 75%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 76%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 77%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 78%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 79%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 80%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 81%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 82%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 83%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 84%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 85%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 86%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 87%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 88%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 89%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 90%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 91%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 92%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 93%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 94%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 95%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 96%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 97%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 98%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 99%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_game_utils@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip: 100%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_rpc@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_rpc-1.zip
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Installing discord_game_utils@1 from /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_game_utils-1.zip
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Finished module installations. [success: 1] [failure: 0]
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_rpc@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_rpc-1.zip: 61%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Streaming discord_rpc@1 to /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_rpc-1.zip: 100%
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Finished module downloads. [success: 3] [failure: 0]
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Installing discord_rpc@1 from /home/shashankn120/.config/discord/0.0.123/modules/pending/discord_rpc-1.zip
+2/3/2026, 7:28:52 PM GMT+11 [Modules] Finished module installations. [success: 1] [failure: 0]
+2/3/2026, 7:29:01 PM GMT+11 [Modules] Checking for host updates.
+2/3/2026, 7:29:01 PM GMT+11 [Modules] Host is up to date.
+2/3/2026, 7:29:01 PM GMT+11 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2/3/2026, 7:29:01 PM GMT+11 [Modules] No module updates available.
+2/4/2026, 12:25:28 PM GMT+11 [Modules] Modules initializing
+2/4/2026, 12:25:28 PM GMT+11 [Modules] Distribution: remote
+2/4/2026, 12:25:28 PM GMT+11 [Modules] Host updates: enabled
+2/4/2026, 12:25:28 PM GMT+11 [Modules] Module updates: enabled
+2/4/2026, 12:25:28 PM GMT+11 [Modules] Module install path: /home/shashankn120/.config/discord/0.0.123/modules
+2/4/2026, 12:25:28 PM GMT+11 [Modules] Module installed file path: /home/shashankn120/.config/discord/0.0.123/modules/installed.json
+2/4/2026, 12:25:28 PM GMT+11 [Modules] Module download path: /home/shashankn120/.config/discord/0.0.123/modules/pending
+2/4/2026, 12:25:29 PM GMT+11 [Modules] No updates to install
+2/4/2026, 12:25:29 PM GMT+11 [Modules] Checking for host updates.
+2/4/2026, 12:25:29 PM GMT+11 [Modules] Host is up to date.
+2/4/2026, 12:25:29 PM GMT+11 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2/4/2026, 12:25:29 PM GMT+11 [Modules] No module updates available.
+2/4/2026, 12:25:40 PM GMT+11 [Modules] Checking for host updates.
+2/4/2026, 12:25:40 PM GMT+11 [Modules] Host is up to date.
+2/4/2026, 12:25:40 PM GMT+11 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2/4/2026, 12:25:40 PM GMT+11 [Modules] No module updates available.
+2/4/2026, 1:17:47 PM GMT+11 [Modules] Checking for host updates.
+2/4/2026, 1:17:47 PM GMT+11 [Modules] Host is up to date.
+2/4/2026, 1:17:47 PM GMT+11 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2/4/2026, 1:17:47 PM GMT+11 [Modules] No module updates available.
+2/4/2026, 2:17:48 PM GMT+11 [Modules] Checking for host updates.
+2/4/2026, 2:17:48 PM GMT+11 [Modules] Host is up to date.
+2/4/2026, 2:17:48 PM GMT+11 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2/4/2026, 2:17:48 PM GMT+11 [Modules] No module updates available.
+2/4/2026, 3:17:48 PM GMT+11 [Modules] Checking for host updates.
+2/4/2026, 3:17:48 PM GMT+11 [Modules] Host is up to date.
+2/4/2026, 3:17:48 PM GMT+11 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2/4/2026, 3:17:48 PM GMT+11 [Modules] No module updates available.
+2/4/2026, 4:34:20 PM GMT+11 [Modules] Checking for host updates.
+2/4/2026, 4:34:20 PM GMT+11 [Modules] Host is up to date.
+2/4/2026, 4:34:20 PM GMT+11 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2/4/2026, 4:34:20 PM GMT+11 [Modules] No module updates available.
+2/4/2026, 5:34:21 PM GMT+11 [Modules] Checking for host updates.
+2/4/2026, 5:34:21 PM GMT+11 [Modules] Host is up to date.
+2/4/2026, 5:34:21 PM GMT+11 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2/4/2026, 5:34:21 PM GMT+11 [Modules] No module updates available.
+2/4/2026, 6:34:21 PM GMT+11 [Modules] Checking for host updates.
+2/4/2026, 6:34:21 PM GMT+11 [Modules] Host is up to date.
+2/4/2026, 6:34:21 PM GMT+11 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2/4/2026, 6:34:21 PM GMT+11 [Modules] No module updates available.
+2/5/2026, 10:28:18 AM GMT+11 [Modules] Modules initializing
+2/5/2026, 10:28:18 AM GMT+11 [Modules] Distribution: remote
+2/5/2026, 10:28:18 AM GMT+11 [Modules] Host updates: enabled
+2/5/2026, 10:28:18 AM GMT+11 [Modules] Module updates: enabled
+2/5/2026, 10:28:18 AM GMT+11 [Modules] Module install path: /home/shashankn120/.config/discord/0.0.123/modules
+2/5/2026, 10:28:18 AM GMT+11 [Modules] Module installed file path: /home/shashankn120/.config/discord/0.0.123/modules/installed.json
+2/5/2026, 10:28:18 AM GMT+11 [Modules] Module download path: /home/shashankn120/.config/discord/0.0.123/modules/pending
+2/5/2026, 10:28:18 AM GMT+11 [Modules] No updates to install
+2/5/2026, 10:28:18 AM GMT+11 [Modules] Checking for host updates.
+2/5/2026, 10:28:18 AM GMT+11 [Modules] Host is up to date.
+2/5/2026, 10:28:18 AM GMT+11 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2/5/2026, 10:28:18 AM GMT+11 [Modules] No module updates available.
+2/5/2026, 10:28:27 AM GMT+11 [Modules] Checking for host updates.
+2/5/2026, 10:28:27 AM GMT+11 [Modules] Host is up to date.
+2/5/2026, 10:28:27 AM GMT+11 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2/5/2026, 10:28:27 AM GMT+11 [Modules] No module updates available.

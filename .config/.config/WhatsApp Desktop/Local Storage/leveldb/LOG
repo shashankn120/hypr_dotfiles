@@ -1,0 +1,6 @@
+2026/02/22-15:38:12.836 2e177 Reusing MANIFEST /home/shashankn120/.config/WhatsApp Desktop/Local Storage/leveldb/MANIFEST-000001
+2026/02/22-15:38:12.854 2e177 Recovering log #4
+2026/02/22-15:38:12.855 2e177 Reusing old log /home/shashankn120/.config/WhatsApp Desktop/Local Storage/leveldb/000004.log 
+2026/02/22-15:40:13.416 2e177 Level-0 table #7: started
+2026/02/22-15:40:13.431 2e177 Level-0 table #7: 18649 bytes OK
+2026/02/22-15:40:13.435 2e177 Delete type=0 #4

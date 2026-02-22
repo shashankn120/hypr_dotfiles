@@ -1,0 +1,35 @@
+2026/02/04-21:57:38.091 6ff Reusing MANIFEST /home/shashankn120/.config/outlook-for-linux/Partitions/outlook-4-linux/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/04-21:57:38.091 6ff Recovering log #8
+2026/02/04-21:57:38.092 6ff Reusing old log /home/shashankn120/.config/outlook-for-linux/Partitions/outlook-4-linux/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/000008.log 
+2026/02/04-21:57:38.103 6fe Level-0 table #13: started
+2026/02/04-21:57:38.105 6fe Level-0 table #13: 1855 bytes OK
+2026/02/04-21:57:38.109 6fe Delete type=0 #8
+2026/02/04-21:57:38.109 6fe Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 131 : 1
+2026/02/04-21:57:38.109 6fe Compacting 1@0 + 1@1 files
+2026/02/04-21:57:38.112 6fe Generated table #14@0: 58 keys, 1454 bytes
+2026/02/04-21:57:38.112 6fe Compacted 1@0 + 1@1 files => 1454 bytes
+2026/02/04-21:57:38.116 6fe compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/04-21:57:38.116 6fe Delete type=2 #13
+2026/02/04-21:57:38.116 6fe Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 131 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/02/04-21:57:39.923 781 Level-0 table #16: started
+2026/02/04-21:57:39.926 781 Level-0 table #16: 601 bytes OK
+2026/02/04-21:57:39.930 781 Delete type=0 #12
+2026/02/04-21:57:39.930 781 Delete type=2 #10
+2026/02/04-21:57:39.931 6fe Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 153 : 1
+2026/02/04-21:57:39.931 6fe Compacting 1@0 + 1@1 files
+2026/02/04-21:57:39.934 6fe Generated table #17@0: 60 keys, 1407 bytes
+2026/02/04-21:57:39.934 6fe Compacted 1@0 + 1@1 files => 1407 bytes
+2026/02/04-21:57:39.938 6fe compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/04-21:57:39.938 6fe Delete type=2 #16
+2026/02/04-21:57:39.939 6fe Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 153 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/02/04-21:57:39.940 6fe Level-0 table #19: started
+2026/02/04-21:57:39.942 6fe Level-0 table #19: 481 bytes OK
+2026/02/04-21:57:39.946 6fe Delete type=0 #15
+2026/02/04-21:57:39.946 6fe Delete type=2 #14
+2026/02/04-21:57:39.947 6fe Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 179 : 0
+2026/02/04-21:57:39.947 6fe Compacting 1@0 + 1@1 files
+2026/02/04-21:57:39.949 6fe Generated table #20@0: 58 keys, 1445 bytes
+2026/02/04-21:57:39.949 6fe Compacted 1@0 + 1@1 files => 1445 bytes
+2026/02/04-21:57:39.953 6fe compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/04-21:57:39.953 6fe Delete type=2 #19
+2026/02/04-21:57:39.953 6fe Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 179 : 0 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

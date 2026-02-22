@@ -1,0 +1,6 @@
+2026/02/04-12:25:28.440 316a Reusing MANIFEST /home/shashankn120/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2026/02/04-12:25:28.460 316a Recovering log #4
+2026/02/04-12:25:28.461 316a Reusing old log /home/shashankn120/.config/discord/Local Storage/leveldb/000004.log 
+2026/02/04-12:36:37.650 316a Level-0 table #8: started
+2026/02/04-12:36:37.731 316a Level-0 table #8: 4360530 bytes OK
+2026/02/04-12:36:37.737 316a Delete type=0 #4
